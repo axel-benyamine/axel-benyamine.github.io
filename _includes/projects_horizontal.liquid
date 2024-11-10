@@ -7,6 +7,15 @@
             {% include figure.liquid loading="eager" path=project.img sizes="(min-width: 768px) 156px, 50vw" alt="project thumbnail" class="card-img" %}
           </div>
         {% endif %}
+        {% if project.project_pdf %}
+          <a
+            href="{{ project.project_pdf | prepend: 'assets/pdf/' | relative_url}}"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+            ><i class="fa-solid fa-file-pdf"></i
+          ></a>
+        {% endif %}
         <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
             <h3 class="card-title">{{ project.title }}</h3>

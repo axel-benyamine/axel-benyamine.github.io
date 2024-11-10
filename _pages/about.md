@@ -1,17 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Ecole Polytechnique (X2021) | Cambridge Part III / axel.benyamine@polytechnique.edu
+subtitle: Ecole Polytechnique (X2021) | Cambridge Part III
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_Axel.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>test</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
