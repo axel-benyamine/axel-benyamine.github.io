@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Some of the projects I've worked on, at Ecole Polytechnique, MIT and during my CPGE.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Academic Projects, Hackathon]
 horizontal: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
+title: Deep Learning for Summarization of Discourse Graphs
+description: Polytechnique, Nov 2023
+img: assets/img/proj8_pp.png
+importance: 8
+category: Academic Projects
 giscus_comments: true
 ---
 
