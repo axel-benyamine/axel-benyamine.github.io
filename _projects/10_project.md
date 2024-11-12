@@ -9,7 +9,7 @@ category: Hackathon
 
 A 24h Hackathon organised by McKinsey QuantumBlack about the use of AI to identify methane leaks. 
 
-Our team (with Pierre Aguié, Louis Collomb and Dimitri de Saint Guilhem) implemented a Deep Learning model to identify methane leaks from satelite pictures, created a website integrating the model, and designed a Business Model for a potential future start-up. Link of the github repository : https://github.com/pierreaguie/X_AI_Hackathon.git.
+Our team (with Pierre Aguié, Louis Collomb and Dimitri de Saint Guilhem) implemented a Deep Learning model to identify methane leaks from satelite pictures, created a website integrating the model, and designed a Business Model for a potential future start-up. Link of the github repository : <a href="https://github.com/pierreaguie/X_AI_Hackathon.git">https://github.com/pierreaguie/X_AI_Hackathon.git</a>
 
 We won the Hackathon (1st) among 15 teams of Polytechnique students.
 
