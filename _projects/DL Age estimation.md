@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning for Age Estimation
 description: Polytechnique, Mar 2024
 img: assets/img/proj5_pp2.png
-importance: 5
+importance: 6
 category: Academic Projects
 ---
 

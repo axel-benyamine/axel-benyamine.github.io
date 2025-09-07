@@ -3,7 +3,7 @@ layout: page
 title: Predicting Companies Default Risk
 description: Polytechnique, Feb-May 2023
 img: assets/img/proj3_pp.png
-importance: 3
+importance: 4
 category: Academic Projects
 ---
 

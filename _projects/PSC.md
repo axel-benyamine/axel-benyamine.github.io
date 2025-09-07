@@ -3,7 +3,7 @@ layout: page
 title: Study of Dots and Boxes (mathematical game)
 description: Polytechnique, Sep 2022-May 2023
 img: assets/img/proj4_pp.png
-importance: 4
+importance: 5
 category: Academic Projects
 ---
 

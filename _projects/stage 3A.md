@@ -3,10 +3,8 @@ layout: page
 title: Optimizing Urban Redevelopment
 description: MIT, Apr-Aug 2024
 img: assets/img/proj1_pp.png
-importance: 1
-project_pdf: example_pdf.pdf
+importance: 2
 category: Academic Projects
-related_publications: false
 ---
 
 During my graduate research internship at MIT under the supervision of Prof. Jacquillat, I worked on developping optimization models and algorithms to support infill development in major cities, with the objective of maximizing a social welfare function.

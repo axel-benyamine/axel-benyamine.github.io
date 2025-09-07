@@ -3,7 +3,7 @@ layout: page
 title: A Cryptograpy system based on the Braid Group
 description: CPGE, Oct 2020-May 2021
 img: assets/img/proj9_pp2.png
-importance: 9
+importance: 8
 category: Academic Projects
 ---
 

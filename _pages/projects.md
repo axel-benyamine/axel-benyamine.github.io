@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of the projects I've worked on, at Ecole Polytechnique, MIT and during my CPGE.
+description: Some of the projects I've worked on at Cambridge, Ecole Polytechnique and MIT.
 nav: true
 nav_order: 2
 display_categories: [Academic Projects, Hackathon]

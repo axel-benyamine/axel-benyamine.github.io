@@ -3,7 +3,7 @@ layout: page
 title: Convergence of Stochastic Processes
 description: Polytechnique, Sep-Dec 2023
 img: assets/img/proj2_pp.png
-importance: 2
+importance: 3
 category: Academic Projects
 giscus_comments: false
 ---
